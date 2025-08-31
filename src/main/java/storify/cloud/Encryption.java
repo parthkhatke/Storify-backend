@@ -34,6 +34,7 @@ public class Encryption {
     public static void main(String[] args) {
 
 
+        System.out.println("inital commit");
         System.out.println(encrypt("parthkhatke@gmail,com","C:\\Users\\parth\\Downloads\\Adobe Express - file.png"));
     }
 }
