@@ -34,6 +34,6 @@ public class Encryption {
     public static void main(String[] args) {
 
 
-        encrypt("parthkhatke@gmail,com","C:\\Users\\parth\\Downloads\\Adobe Express - file.png");
+        System.out.println(encrypt("parthkhatke@gmail,com","C:\\Users\\parth\\Downloads\\Adobe Express - file.png"));
     }
 }
